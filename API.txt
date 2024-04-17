@@ -1,1 +1,1 @@
-1.0.9
+{"url":"http://192.168.205.33:8080/Hello/medtime_v3.0.1_Other_20150116.apk","versionCode":2,"updateMessage":"Kontol"}
