@@ -1,16 +1,16 @@
 [
     {
       "color": "FF3F51B5",
-      "dopname": " BTI",
+      "dopname": "ROLEPLAY",
       "maxonline": 1000,
-      "name":"Bhinneka Tunggal Ika Roleplay",
+      "name":"Bhinneka Tunggal Ika",
       "online": 204
     },
     {
       "color": "FF008577",
-      "dopname": " BTI",
+      "dopname": "FREEROAM",
       "maxonline": 1000,
-      "name":"Bhinneka Tunggal Ika Freeroam",
+      "name":"Bhinneka Tunggal Ika",
       "online": 62
     }
   ]
