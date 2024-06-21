@@ -1,16 +1,23 @@
 [
     {
       "color": "FF3F51B5",
-      "dopname": "ROLEPLAY",
-      "maxonline": 1000,
+      "dopname": "RP",
+      "maxonline": 200,
       "name":"Bhinneka Tunggal Ika",
-      "online": 204
+      "online": 104
     },
     {
       "color": "FF008577",
-      "dopname": "FREEROAM",
-      "maxonline": 1000,
+      "dopname": "FR",
+      "maxonline": 100,
       "name":"Bhinneka Tunggal Ika",
-      "online": 62
+      "online": 27
+    },
+    {
+      "color": "FFC4BF99",
+      "dopname": "BETA",
+      "maxonline": 20,
+      "name":"Bhinneka Tunggal Ika",
+      "online": 0
     }
   ]
