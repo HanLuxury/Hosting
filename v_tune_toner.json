@@ -1,0 +1,50 @@
+[
+	{
+ 		"iID": 0,
+ 		"iColor": "000000",
+ 		"iStart": 1,
+ 		"iEnd": 8
+ 	},
+ 	{
+ 		"iID": 1,
+ 		"iColor": "F5F5F5",
+ 		"iStart": 9,
+ 		"iEnd": 16
+ 	},
+ 	{
+ 		"iID": 2,
+ 		"iColor": "2A77A1",
+ 		"iStart": 17,
+ 		"iEnd": 24
+ 	},
+ 	{
+ 		"iID": 3,
+ 		"iColor": "840410",
+ 		"iStart": 25,
+ 		"iEnd": 32
+ 	},
+ 	{
+ 		"iID": 4,
+ 		"iColor": "263739",
+ 		"iStart": 33,
+ 		"iEnd": 40
+ 	},
+ 	{
+ 		"iID": 5,
+ 		"iColor": "86446E",
+ 		"iStart": 41,
+ 		"iEnd": 48
+ 	},
+ 	{
+ 		"iID": 6,
+ 		"iColor": "D78E10",
+ 		"iStart": 49,
+ 		"iEnd": 56
+ 	},
+ 	{
+ 		"iID": 7,
+ 		"iColor": "4C75B7",
+ 		"iStart": 57,
+ 		"iEnd": 64
+ 	}
+]

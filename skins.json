@@ -1,0 +1,2190 @@
+[
+ 	{
+ 		"s_name": "Carl 'CJ' Johnson",
+ 		"s_id": 0
+ 	},
+ 	{
+ 		"s_name": "The Truth",
+ 		"s_id": 1
+ 	},
+ 	{
+ 		"s_name": "Maccer",
+ 		"s_id": 2
+ 	},
+ 	{
+ 		"s_name": "Andre",
+ 		"s_id": 3
+ 	},
+ 	{
+ 		"s_name": "Barry 'Big Bear' Thorne",
+ 		"s_id": 4
+ 	},
+ 	{
+ 		"s_name": "Barry 'Big Bear' Thorne",
+ 		"s_id": 5
+ 	},
+ 	{
+ 		"s_name": "Emmet",
+ 		"s_id": 6
+ 	},
+ 	{
+ 		"s_name": "Taxi Driver",
+ 		"s_id": 7
+ 	},
+ 	{
+ 		"s_name": "Janitor",
+ 		"s_id": 8
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 9
+ 	},
+ 	{
+ 		"s_name": "Old Woman",
+ 		"s_id": 10
+ 	},
+ 	{
+ 		"s_name": "Casino Croupier",
+ 		"s_id": 11
+ 	},
+ 	{
+ 		"s_name": "Rich Woman",
+ 		"s_id": 12
+ 	},
+ 	{
+ 		"s_name": "Street Girl",
+ 		"s_id": 13
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 14
+ 	},
+ 	{
+ 		"s_name": "Mr. Whittaker",
+ 		"s_id": 15
+ 	},
+ 	{
+ 		"s_name": "Airport Ground Worker",
+ 		"s_id": 16
+ 	},
+ 	{
+ 		"s_name": "Businessman",
+ 		"s_id": 17
+ 	},
+ 	{
+ 		"s_name": "Beach Visitor",
+ 		"s_id": 18
+ 	},
+ 	{
+ 		"s_name": "DJ",
+ 		"s_id": 19
+ 	},
+ 	{
+ 		"s_name": "Rich Guy",
+ 		"s_id": 20
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 21
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 22
+ 	},
+ 	{
+ 		"s_name": "BMXer",
+ 		"s_id": 23
+ 	},
+ 	{
+ 		"s_name": "Madd Dogg Bodyguard",
+ 		"s_id": 24
+ 	},
+ 	{
+ 		"s_name": "Madd Dogg Bodyguard",
+ 		"s_id": 25
+ 	},
+ 	{
+ 		"s_name": "Backpacker",
+ 		"s_id": 26
+ 	},
+ 	{
+ 		"s_name": "Construction Worker",
+ 		"s_id": 27
+ 	},
+ 	{
+ 		"s_name": "Drug Dealer",
+ 		"s_id": 28
+ 	},
+ 	{
+ 		"s_name": "Drug Dealer",
+ 		"s_id": 29
+ 	},
+ 	{
+ 		"s_name": "Drug Dealer",
+ 		"s_id": 30
+ 	},
+ 	{
+ 		"s_name": "Farm-Town inhabitant",
+ 		"s_id": 31
+ 	},
+ 	{
+ 		"s_name": "Farm-Town inhabitant",
+ 		"s_id": 32
+ 	},
+ 	{
+ 		"s_name": "Farm-Town inhabitant",
+ 		"s_id": 33
+ 	},
+ 	{
+ 		"s_name": "Farm-Town inhabitant",
+ 		"s_id": 34
+ 	},
+ 	{
+ 		"s_name": "Gardener",
+ 		"s_id": 35
+ 	},
+ 	{
+ 		"s_name": "Golfer",
+ 		"s_id": 36
+ 	},
+ 	{
+ 		"s_name": "Golfer",
+ 		"s_id": 37
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 38
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 39
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 40
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 41
+ 	},
+ 	{
+ 		"s_name": "Jethro",
+ 		"s_id": 42
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 43
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 44
+ 	},
+ 	{
+ 		"s_name": "Beach Visitor",
+ 		"s_id": 45
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 46
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 47
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 48
+ 	},
+ 	{
+ 		"s_name": "Snakehead",
+ 		"s_id": 49
+ 	},
+ 	{
+ 		"s_name": "Mechanic",
+ 		"s_id": 50
+ 	},
+ 	{
+ 		"s_name": "Mountain Biker",
+ 		"s_id": 51
+ 	},
+ 	{
+ 		"s_name": "Mountain Biker",
+ 		"s_id": 52
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 54
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 55
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 56
+ 	},
+ 	{
+ 		"s_name": "Oriental Ped",
+ 		"s_id": 57
+ 	},
+ 	{
+ 		"s_name": "Oriental Ped",
+ 		"s_id": 58
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 59
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 60
+ 	},
+ 	{
+ 		"s_name": "Pilot",
+ 		"s_id": 61
+ 	},
+ 	{
+ 		"s_name": "Colonel Fuhrberger",
+ 		"s_id": 62
+ 	},
+ 	{
+ 		"s_name": "Prostitute",
+ 		"s_id": 63
+ 	},
+ 	{
+ 		"s_name": "Prostitute",
+ 		"s_id": 64
+ 	},
+ 	{
+ 		"s_name": "Kendl Johnson",
+ 		"s_id": 65
+ 	},
+ 	{
+ 		"s_name": "Pool Player",
+ 		"s_id": 66
+ 	},
+ 	{
+ 		"s_name": "Pool Player",
+ 		"s_id": 67
+ 	},
+ 	{
+ 		"s_name": "Priest",
+ 		"s_id": 68
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 69
+ 	},
+ 	{
+ 		"s_name": "Scientist",
+ 		"s_id": 70
+ 	},
+ 	{
+ 		"s_name": "Security Guard",
+ 		"s_id": 71
+ 	},
+ 	{
+ 		"s_name": "Hippy",
+ 		"s_id": 72
+ 	},
+ 	{
+ 		"s_name": "Hippy",
+ 		"s_id": 73
+ 	},
+ 	{
+ 		"s_name": "-",
+ 		"s_id": 74
+ 	},
+ 	{
+ 		"s_name": "Prostitute",
+ 		"s_id": 75
+ 	},
+ 	{
+ 		"s_name": "Stewardess",
+ 		"s_id": 76
+ 	},
+ 	{
+ 		"s_name": "Homeless",
+ 		"s_id": 77
+ 	},
+ 	{
+ 		"s_name": "Homeless",
+ 		"s_id": 78
+ 	},
+ 	{
+ 		"s_name": "Homeless",
+ 		"s_id": 79
+ 	},
+ 	{
+ 		"s_name": "Boxer",
+ 		"s_id": 80
+ 	},
+ 	{
+ 		"s_name": "Boxer",
+ 		"s_id": 81
+ 	},
+ 	{
+ 		"s_name": "Black Elvis",
+ 		"s_id": 82
+ 	},
+ 	{
+ 		"s_name": "White Elvis",
+ 		"s_id": 83
+ 	},
+ 	{
+ 		"s_name": "Blue Elvis",
+ 		"s_id": 84
+ 	},
+ 	{
+ 		"s_name": "Prostitute",
+ 		"s_id": 85
+ 	},
+ 	{
+ 		"s_name": "Ryder with robbery mask",
+ 		"s_id": 86
+ 	},
+ 	{
+ 		"s_name": "Stripper",
+ 		"s_id": 87
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 88
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 89
+ 	},
+ 	{
+ 		"s_name": "Jogger",
+ 		"s_id": 90
+ 	},
+ 	{
+ 		"s_name": "Rich Woman",
+ 		"s_id": 91
+ 	},
+ 	{
+ 		"s_name": "Rollerskater",
+ 		"s_id": 92
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 93
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 94
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 95
+ 	},
+ 	{
+ 		"s_name": "Jogger",
+ 		"s_id": 96
+ 	},
+ 	{
+ 		"s_name": "Lifeguard",
+ 		"s_id": 97
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 98
+ 	},
+ 	{
+ 		"s_name": "Rollerskater",
+ 		"s_id": 99
+ 	},
+ 	{
+ 		"s_name": "Biker",
+ 		"s_id": 100
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 101
+ 	},
+ 	{
+ 		"s_name": "Ballas",
+ 		"s_id": 102
+ 	},
+ 	{
+ 		"s_name": "Ballas",
+ 		"s_id": 103
+ 	},
+ 	{
+ 		"s_name": "Ballas",
+ 		"s_id": 104
+ 	},
+ 	{
+ 		"s_name": "Grove Street Families",
+ 		"s_id": 105
+ 	},
+ 	{
+ 		"s_name": "Grove Street Families",
+ 		"s_id": 106
+ 	},
+ 	{
+ 		"s_name": "Grove Street Families",
+ 		"s_id": 107
+ 	},
+ 	{
+ 		"s_name": "Los Santos Vagos",
+ 		"s_id": 108
+ 	},
+ 	{
+ 		"s_name": "Los Santos Vagos",
+ 		"s_id": 109
+ 	},
+ 	{
+ 		"s_name": "Los Santos Vagos",
+ 		"s_id": 110
+ 	},
+ 	{
+ 		"s_name": "The Russian Mafia",
+ 		"s_id": 111
+ 	},
+ 	{
+ 		"s_name": "The Russian Mafia",
+ 		"s_id": 112
+ 	},
+ 	{
+ 		"s_name": "The Russian Mafia",
+ 		"s_id": 113
+ 	},
+ 	{
+ 		"s_name": "Varios Los Aztecas",
+ 		"s_id": 114
+ 	},
+ 	{
+ 		"s_name": "Varios Los Aztecas",
+ 		"s_id": 115
+ 	},
+ 	{
+ 		"s_name": "Varios Los Aztecas",
+ 		"s_id": 116
+ 	},
+ 	{
+ 		"s_name": "Triad",
+ 		"s_id": 117
+ 	},
+ 	{
+ 		"s_name": "Triad",
+ 		"s_id": 118
+ 	},
+ 	{
+ 		"s_name": "Johhny Sindacco",
+ 		"s_id": 119
+ 	},
+ 	{
+ 		"s_name": "Triad Boss",
+ 		"s_id": 120
+ 	},
+ 	{
+ 		"s_name": "Da Nang Boy",
+ 		"s_id": 121
+ 	},
+ 	{
+ 		"s_name": "Da Nang Boy",
+ 		"s_id": 122
+ 	},
+ 	{
+ 		"s_name": "Da Nang Boy",
+ 		"s_id": 123
+ 	},
+ 	{
+ 		"s_name": "The Mafia",
+ 		"s_id": 124
+ 	},
+ 	{
+ 		"s_name": "The Mafia",
+ 		"s_id": 125
+ 	},
+ 	{
+ 		"s_name": "The Mafia",
+ 		"s_id": 126
+ 	},
+ 	{
+ 		"s_name": "The Mafia",
+ 		"s_id": 127
+ 	},
+ 	{
+ 		"s_name": "Farm Inhabitant",
+ 		"s_id": 128
+ 	},
+ 	{
+ 		"s_name": "Farm Inhabitant",
+ 		"s_id": 129
+ 	},
+ 	{
+ 		"s_name": "Farm Inhabitant",
+ 		"s_id": 130
+ 	},
+ 	{
+ 		"s_name": "Farm Inhabitant",
+ 		"s_id": 131
+ 	},
+ 	{
+ 		"s_name": "Farm Inhabitant",
+ 		"s_id": 132
+ 	},
+ 	{
+ 		"s_name": "Farm Inhabitant",
+ 		"s_id": 133
+ 	},
+ 	{
+ 		"s_name": "Homeless",
+ 		"s_id": 134
+ 	},
+ 	{
+ 		"s_name": "Homeless",
+ 		"s_id": 135
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 136
+ 	},
+ 	{
+ 		"s_name": "Homeless",
+ 		"s_id": 137
+ 	},
+ 	{
+ 		"s_name": "Beach Visitor",
+ 		"s_id": 138
+ 	},
+ 	{
+ 		"s_name": "Beach Visitor",
+ 		"s_id": 139
+ 	},
+ 	{
+ 		"s_name": "Beach Visitor",
+ 		"s_id": 140
+ 	},
+ 	{
+ 		"s_name": "Businesswoman",
+ 		"s_id": 141
+ 	},
+ 	{
+ 		"s_name": "Taxi Driver",
+ 		"s_id": 142
+ 	},
+ 	{
+ 		"s_name": "Crack Maker",
+ 		"s_id": 143
+ 	},
+ 	{
+ 		"s_name": "Crack Maker",
+ 		"s_id": 144
+ 	},
+ 	{
+ 		"s_name": "Crack Maker",
+ 		"s_id": 145
+ 	},
+ 	{
+ 		"s_name": "Crack Maker",
+ 		"s_id": 146
+ 	},
+ 	{
+ 		"s_name": "Businessman",
+ 		"s_id": 147
+ 	},
+ 	{
+ 		"s_name": "Businesswoman",
+ 		"s_id": 148
+ 	},
+ 	{
+ 		"s_name": "Big Smoke Armored",
+ 		"s_id": 149
+ 	},
+ 	{
+ 		"s_name": "Businesswoman",
+ 		"s_id": 150
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 151
+ 	},
+ 	{
+ 		"s_name": "Prostitute",
+ 		"s_id": 152
+ 	},
+ 	{
+ 		"s_name": "Construction Worker",
+ 		"s_id": 153
+ 	},
+ 	{
+ 		"s_name": "Beach Visitor",
+ 		"s_id": 154
+ 	},
+ 	{
+ 		"s_name": "Well Stacked Pizza Worker",
+ 		"s_id": 155
+ 	},
+ 	{
+ 		"s_name": "Barber",
+ 		"s_id": 156
+ 	},
+ 	{
+ 		"s_name": "Hillbilly",
+ 		"s_id": 157
+ 	},
+ 	{
+ 		"s_name": "Farmer",
+ 		"s_id": 158
+ 	},
+ 	{
+ 		"s_name": "Hillbilly",
+ 		"s_id": 159
+ 	},
+ 	{
+ 		"s_name": "Hillbilly",
+ 		"s_id": 160
+ 	},
+ 	{
+ 		"s_name": "Farmer",
+ 		"s_id": 161
+ 	},
+ 	{
+ 		"s_name": "Hillbilly",
+ 		"s_id": 162
+ 	},
+ 	{
+ 		"s_name": "Black Bouncer",
+ 		"s_id": 163
+ 	},
+ 	{
+ 		"s_name": "White Bouncer",
+ 		"s_id": 164
+ 	},
+ 	{
+ 		"s_name": "White MIB agent",
+ 		"s_id": 165
+ 	},
+ 	{
+ 		"s_name": "Black MIB agent",
+ 		"s_id": 166
+ 	},
+ 	{
+ 		"s_name": "Cluckin' Bell Worker",
+ 		"s_id": 167
+ 	},
+ 	{
+ 		"s_name": "Chilli Dog Vendor",
+ 		"s_id": 168
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 169
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 170
+ 	},
+ 	{
+ 		"s_name": "Blackjack Dealer",
+ 		"s_id": 171
+ 	},
+ 	{
+ 		"s_name": "Casino Croupier",
+ 		"s_id": 172
+ 	},
+ 	{
+ 		"s_name": "San Fierro Rifa",
+ 		"s_id": 173
+ 	},
+ 	{
+ 		"s_name": "San Fierro Rifa",
+ 		"s_id": 174
+ 	},
+ 	{
+ 		"s_name": "San Fierro Rifa",
+ 		"s_id": 175
+ 	},
+ 	{
+ 		"s_name": "Barber",
+ 		"s_id": 176
+ 	},
+ 	{
+ 		"s_name": "Barber",
+ 		"s_id": 177
+ 	},
+ 	{
+ 		"s_name": "Whore",
+ 		"s_id": 178
+ 	},
+ 	{
+ 		"s_name": "Ammunation Salesman",
+ 		"s_id": 179
+ 	},
+ 	{
+ 		"s_name": "Tattoo Artist",
+ 		"s_id": 180
+ 	},
+ 	{
+ 		"s_name": "Punk",
+ 		"s_id": 181
+ 	},
+ 	{
+ 		"s_name": "Cab Driver",
+ 		"s_id": 182
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 183
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 184
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 185
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 186
+ 	},
+ 	{
+ 		"s_name": "Businessman",
+ 		"s_id": 187
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 188
+ 	},
+ 	{
+ 		"s_name": "Valet",
+ 		"s_id": 189
+ 	},
+ 	{
+ 		"s_name": "Barbara Schternvart",
+ 		"s_id": 190
+ 	},
+ 	{
+ 		"s_name": "Helena Wankstein",
+ 		"s_id": 191
+ 	},
+ 	{
+ 		"s_name": "Michelle Cannes",
+ 		"s_id": 192
+ 	},
+ 	{
+ 		"s_name": "Katie Zhan",
+ 		"s_id": 193
+ 	},
+ 	{
+ 		"s_name": "Millie Perkins",
+ 		"s_id": 194
+ 	},
+ 	{
+ 		"s_name": "Denise Robinson",
+ 		"s_id": 195
+ 	},
+ 	{
+ 		"s_name": "Farm-Town inhabitant",
+ 		"s_id": 196
+ 	},
+ 	{
+ 		"s_name": "Hillbilly",
+ 		"s_id": 197
+ 	},
+ 	{
+ 		"s_name": "Farm-Town inhabitant",
+ 		"s_id": 198
+ 	},
+ 	{
+ 		"s_name": "Farm-Town inhabitant",
+ 		"s_id": 199
+ 	},
+ 	{
+ 		"s_name": "Hillbilly",
+ 		"s_id": 200
+ 	},
+ 	{
+ 		"s_name": "Farmer",
+ 		"s_id": 201
+ 	},
+ 	{
+ 		"s_name": "Farmer",
+ 		"s_id": 202
+ 	},
+ 	{
+ 		"s_name": "Karate Teacher",
+ 		"s_id": 203
+ 	},
+ 	{
+ 		"s_name": "Karate Teacher",
+ 		"s_id": 204
+ 	},
+ 	{
+ 		"s_name": "Burger Shot Cashier",
+ 		"s_id": 205
+ 	},
+ 	{
+ 		"s_name": "Cab Driver",
+ 		"s_id": 206
+ 	},
+ 	{
+ 		"s_name": "Prostitute",
+ 		"s_id": 207
+ 	},
+ 	{
+ 		"s_name": "Su Xi Mu",
+ 		"s_id": 208
+ 	},
+ 	{
+ 		"s_name": "Oriental Noodle stand vendor",
+ 		"s_id": 209
+ 	},
+ 	{
+ 		"s_name": "Oriental Boating School Instructor",
+ 		"s_id": 210
+ 	},
+ 	{
+ 		"s_name": "Clothes shop staff",
+ 		"s_id": 211
+ 	},
+ 	{
+ 		"s_name": "Homeless",
+ 		"s_id": 212
+ 	},
+ 	{
+ 		"s_name": "Weird old man",
+ 		"s_id": 213
+ 	},
+ 	{
+ 		"s_name": "Waitress",
+ 		"s_id": 214
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 215
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 216
+ 	},
+ 	{
+ 		"s_name": "Clothes shop staff",
+ 		"s_id": 217
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 218
+ 	},
+ 	{
+ 		"s_name": "Rich Woman",
+ 		"s_id": 219
+ 	},
+ 	{
+ 		"s_name": "Cab Driver",
+ 		"s_id": 220
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 221
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 222
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 223
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 224
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 225
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 226
+ 	},
+ 	{
+ 		"s_name": "Oriental Businessman",
+ 		"s_id": 227
+ 	},
+ 	{
+ 		"s_name": "Oriental Ped",
+ 		"s_id": 228
+ 	},
+ 	{
+ 		"s_name": "Oriental Ped",
+ 		"s_id": 229
+ 	},
+ 	{
+ 		"s_name": "Homeless",
+ 		"s_id": 230
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 231
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 232
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 233
+ 	},
+ 	{
+ 		"s_name": "Cab Driver",
+ 		"s_id": 234
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 235
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 236
+ 	},
+ 	{
+ 		"s_name": "Prostitute",
+ 		"s_id": 237
+ 	},
+ 	{
+ 		"s_name": "Prostitute",
+ 		"s_id": 238
+ 	},
+ 	{
+ 		"s_name": "Homeless",
+ 		"s_id": 239
+ 	},
+ 	{
+ 		"s_name": "The D.A",
+ 		"s_id": 240
+ 	},
+ 	{
+ 		"s_name": "Afro-American",
+ 		"s_id": 241
+ 	},
+ 	{
+ 		"s_name": "Mexican",
+ 		"s_id": 242
+ 	},
+ 	{
+ 		"s_name": "Prostitute",
+ 		"s_id": 243
+ 	},
+ 	{
+ 		"s_name": "Stripper",
+ 		"s_id": 244
+ 	},
+ 	{
+ 		"s_name": "Prostitute",
+ 		"s_id": 245
+ 	},
+ 	{
+ 		"s_name": "Stripper",
+ 		"s_id": 246
+ 	},
+ 	{
+ 		"s_name": "Biker",
+ 		"s_id": 247
+ 	},
+ 	{
+ 		"s_name": "Biker",
+ 		"s_id": 248
+ 	},
+ 	{
+ 		"s_name": "Pimp",
+ 		"s_id": 249
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 250
+ 	},
+ 	{
+ 		"s_name": "Lifeguard",
+ 		"s_id": 251
+ 	},
+ 	{
+ 		"s_name": "Naked Valet",
+ 		"s_id": 252
+ 	},
+ 	{
+ 		"s_name": "Bus Driver",
+ 		"s_id": 253
+ 	},
+ 	{
+ 		"s_name": "Biker Drug Dealer",
+ 		"s_id": 254
+ 	},
+ 	{
+ 		"s_name": "Chauffeur",
+ 		"s_id": 255
+ 	},
+ 	{
+ 		"s_name": "Stripper",
+ 		"s_id": 256
+ 	},
+ 	{
+ 		"s_name": "Stripper",
+ 		"s_id": 257
+ 	},
+ 	{
+ 		"s_name": "Heckler",
+ 		"s_id": 258
+ 	},
+ 	{
+ 		"s_name": "Heckler",
+ 		"s_id": 259
+ 	},
+ 	{
+ 		"s_name": "Construction Worker",
+ 		"s_id": 260
+ 	},
+ 	{
+ 		"s_name": "Cab Driver",
+ 		"s_id": 261
+ 	},
+ 	{
+ 		"s_name": "Cab Driver",
+ 		"s_id": 262
+ 	},
+ 	{
+ 		"s_name": "Normal Ped",
+ 		"s_id": 263
+ 	},
+ 	{
+ 		"s_name": "Clown",
+ 		"s_id": 264
+ 	},
+ 	{
+ 		"s_name": "Officer Frank Tenpenny",
+ 		"s_id": 265
+ 	},
+ 	{
+ 		"s_name": "Officer Eddie Pulaski",
+ 		"s_id": 266
+ 	},
+ 	{
+ 		"s_name": "Officer Jimmy Hernandez",
+ 		"s_id": 267
+ 	},
+ 	{
+ 		"s_name": "Dwayne",
+ 		"s_id": 268
+ 	},
+ 	{
+ 		"s_name": "Melvin 'Big Smoke' Harris",
+ 		"s_id": 269
+ 	},
+ 	{
+ 		"s_name": "Sean 'Sweet' Johnson",
+ 		"s_id": 270
+ 	},
+ 	{
+ 		"s_name": "Lance 'Ryder' Wilson",
+ 		"s_id": 271
+ 	},
+ 	{
+ 		"s_name": "Mafia Boss",
+ 		"s_id": 272
+ 	},
+ 	{
+ 		"s_name": "T-Bone Mendez",
+ 		"s_id": 273
+ 	},
+ 	{
+ 		"s_name": "Paramedic",
+ 		"s_id": 274
+ 	},
+ 	{
+ 		"s_name": "Paramedic",
+ 		"s_id": 275
+ 	},
+ 	{
+ 		"s_name": "Paramedic",
+ 		"s_id": 276
+ 	},
+ 	{
+ 		"s_name": "Firefighter",
+ 		"s_id": 277
+ 	},
+ 	{
+ 		"s_name": "Firefighter",
+ 		"s_id": 278
+ 	},
+ 	{
+ 		"s_name": "Firefighter",
+ 		"s_id": 279
+ 	},
+ 	{
+ 		"s_name": "Los Santos Police Officer",
+ 		"s_id": 280
+ 	},
+ 	{
+ 		"s_name": "San Fierro Police Officer",
+ 		"s_id": 281
+ 	},
+ 	{
+ 		"s_name": "Las Venturas Police Officer",
+ 		"s_id": 282
+ 	},
+ 	{
+ 		"s_name": "County Sheriff",
+ 		"s_id": 283
+ 	},
+ 	{
+ 		"s_name": "LSPD Motorbike Cop",
+ 		"s_id": 284
+ 	},
+ 	{
+ 		"s_name": "S.W.A.T Special Forces",
+ 		"s_id": 285
+ 	},
+ 	{
+ 		"s_name": "Federal Agent",
+ 		"s_id": 286
+ 	},
+ 	{
+ 		"s_name": "San Andreas Army",
+ 		"s_id": 287
+ 	},
+ 	{
+ 		"s_name": "Desert Sheriff",
+ 		"s_id": 288
+ 	},
+ 	{
+ 		"s_name": "Zero",
+ 		"s_id": 289
+ 	},
+ 	{
+ 		"s_name": "Ken Rosenberg",
+ 		"s_id": 290
+ 	},
+ 	{
+ 		"s_name": "Kent Paul",
+ 		"s_id": 291
+ 	},
+ 	{
+ 		"s_name": "Cesar Vialpando",
+ 		"s_id": 292
+ 	},
+ 	{
+ 		"s_name": "Jeffery 'OG Loc' Martin",
+ 		"s_id": 293
+ 	},
+ 	{
+ 		"s_name": "Wu Zi Mu",
+ 		"s_id": 294
+ 	},
+ 	{
+ 		"s_name": "Michael Toreno",
+ 		"s_id": 295
+ 	},
+ 	{
+ 		"s_name": "Jizzy B.",
+ 		"s_id": 296
+ 	},
+ 	{
+ 		"s_name": "Madd Dogg",
+ 		"s_id": 297
+ 	},
+ 	{
+ 		"s_name": "Catalina",
+ 		"s_id": 298
+ 	},
+ 	{
+ 		"s_name": "Claude Speed",
+ 		"s_id": 299
+ 	},
+ 	{
+ 		"s_name": "Los Santos Police Officer",
+ 		"s_id": 300
+ 	},
+ 	{
+ 		"s_name": "San Fierro Police Officer",
+ 		"s_id": 301
+ 	},
+ 	{
+ 		"s_name": "Las Venturas Police Officer",
+ 		"s_id": 302
+ 	},
+ 	{
+ 		"s_name": "Los Santos Police Officer",
+ 		"s_id": 303
+ 	},
+ 	{
+ 		"s_name": "Los Santos Police Officer",
+ 		"s_id": 304
+ 	},
+ 	{
+ 		"s_name": "Las Venturas Police Officer",
+ 		"s_id": 305
+ 	},
+ 	{
+ 		"s_name": "Los Santos Police Officer",
+ 		"s_id": 306
+ 	},
+ 	{
+ 		"s_name": "San Fierro Police Officer",
+ 		"s_id": 307
+ 	},
+ 	{
+ 		"s_name": "San Fierro Paramedic",
+ 		"s_id": 308
+ 	},
+ 	{
+ 		"s_name": "Las Venturas Police Officer",
+ 		"s_id": 309
+ 	},
+ 	{
+ 		"s_name": "Country Sheriff",
+ 		"s_id": 310
+ 	},
+ 	{
+ 		"s_name": "Desert Sheriff",
+ 		"s_id": 311
+ 	},
+ 	{
+ 		"s_name": "Don Carleone",
+ 		"s_id": 312
+ 	},
+ 	{
+ 		"s_name": "джон уик",
+ 		"s_id": 313
+ 	},
+ 	{
+ 		"s_name": "джокер",
+ 		"s_id": 314
+ 	},
+ 	{
+ 		"s_name": "Marshmello",
+ 		"s_id": 315
+ 	},
+ 	{
+ 		"s_name": "Skin Name",
+ 		"s_id": 318
+ 	},
+ 	{
+ 		"s_name": "Skin Name",
+ 		"s_id": 4507
+ 	},
+ 	{
+ 		"s_name": "джо байден",
+ 		"s_id": 4508
+ 	},
+ 	{
+ 		"s_name": "сергей бодров",
+ 		"s_id": 4509
+ 	},
+ 	{
+ 		"s_name": "ева элфи (снег.)",
+ 		"s_id": 4511
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4512
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4513
+ 	},
+ 	{
+ 		"s_name": "S1mple",
+ 		"s_id": 4516
+ 	},
+ 	{
+ 		"s_name": "тимати",
+ 		"s_id": 4517
+ 	},
+ 	{
+ 		"s_name": "школьник",
+ 		"s_id": 4521
+ 	},
+ 	{
+ 		"s_name": "Buster",
+ 		"s_id": 4522
+ 	},
+ 	{
+ 		"s_name": "Elon Musk (nuds)",
+ 		"s_id": 4523
+ 	},
+ 	{
+ 		"s_name": "Eva Elfie (nuds)",
+ 		"s_id": 4524
+ 	},
+ 	{
+ 		"s_name": "Skin Name",
+ 		"s_id": 4525
+ 	},
+ 	{
+ 		"s_name": "Skin Name",
+ 		"s_id": 4526
+ 	},
+ 	{
+ 		"s_name": "Skin Name",
+ 		"s_id": 4527
+ 	},
+ 	{
+ 		"s_name": "Skin Name",
+ 		"s_id": 4528
+ 	},
+ 	{
+ 		"s_name": "хасбик",
+ 		"s_id": 4529
+ 	},
+ 	{
+ 		"s_name": "каха",
+ 		"s_id": 4530
+ 	},
+ 	{
+ 		"s_name": "литвин",
+ 		"s_id": 4531
+ 	},
+ 	{
+ 		"s_name": "пчёла",
+ 		"s_id": 4532
+ 	},
+ 	{
+ 		"s_name": "равшан",
+ 		"s_id": 4533
+ 	},
+ 	{
+ 		"s_name": "серго",
+ 		"s_id": 4534
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4535
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4536
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4537
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4538
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4539
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4540
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4541
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4542
+ 	},
+ 	{
+ 		"s_name": "неизвестно",
+ 		"s_id": 4543
+ 	},
+ 	{
+ 		"s_name": "пляжная чика",
+ 		"s_id": 4544
+ 	},
+ 	{
+ 		"s_name": "Big Baby Tape",
+ 		"s_id": 4545
+ 	},
+ 	{
+ 		"s_name": "дора",
+ 		"s_id": 4546
+ 	},
+ 	{
+ 		"s_name": "кизару",
+ 		"s_id": 4547
+ 	},
+ 	{
+ 		"s_name": "клава кока",
+ 		"s_id": 4548
+ 	},
+ 	{
+ 		"s_name": "Tenderlybae",
+ 		"s_id": 4549
+ 	},
+ 	{
+ 		"s_name": "виктор цой",
+ 		"s_id": 4550
+ 	},
+ 	{
+ 		"s_name": "Normal Ped #10",
+ 		"s_id": 4551
+ 	},
+ 	{
+ 		"s_name": "Normal Ped #11",
+ 		"s_id": 4552
+ 	},
+ 	{
+ 		"s_name": "Normal Ped #12",
+ 		"s_id": 4553
+ 	},
+ 	{
+ 		"s_name": "Normal Ped #13",
+ 		"s_id": 4554
+ 	},
+ 	{
+ 		"s_name": "Normal Ped #14",
+ 		"s_id": 4555
+ 	},
+ 	{
+ 		"s_name": "муммия",
+ 		"s_id": 4556
+ 	},
+ 	{
+ 		"s_name": "помощница санты",
+ 		"s_id": 4557
+ 	},
+ 	{
+ 		"s_name": "эльф",
+ 		"s_id": 4558
+ 	},
+ 	{
+ 		"s_name": "гринч",
+ 		"s_id": 4559
+ 	},
+ 	{
+ 		"s_name": "шрек",
+ 		"s_id": 4560
+ 	},
+ 	{
+ 		"s_name": "зимний #1",
+ 		"s_id": 4561
+ 	},
+ 	{
+ 		"s_name": "зимний #2",
+ 		"s_id": 4562
+ 	},
+ 	{
+ 		"s_name": "зимний #3",
+ 		"s_id": 4563
+ 	},
+ 	{
+ 		"s_name": "зимний #4",
+ 		"s_id": 4564
+ 	},
+ 	{
+ 		"s_name": "зимний #5",
+ 		"s_id": 4565
+ 	},
+ 	{
+ 		"s_name": "зимний #6",
+ 		"s_id": 4566
+ 	},
+ 	{
+ 		"s_name": "зимняя #1",
+ 		"s_id": 4567
+ 	},
+ 	{
+ 		"s_name": "зимняя #2",
+ 		"s_id": 4568
+ 	},
+ 	{
+ 		"s_name": "зимняя #3",
+ 		"s_id": 4569
+ 	},
+ 	{
+ 		"s_name": "парень в ушанке ссср",
+ 		"s_id": 4570
+ 	},
+ 	{
+ 		"s_name": "снеговик",
+ 		"s_id": 4571
+ 	},
+ 	{
+ 		"s_name": "абдурозик",
+ 		"s_id": 4572
+ 	},
+ 	{
+ 		"s_name": "галкин",
+ 		"s_id": 4573
+ 	},
+ 	{
+ 		"s_name": "гопник",
+ 		"s_id": 4574
+ 	},
+ 	{
+ 		"s_name": "мейби бэйби",
+ 		"s_id": 4575
+ 	},
+ 	{
+ 		"s_name": "Mikki Mouse",
+ 		"s_id": 4576
+ 	},
+ 	{
+ 		"s_name": "ургант",
+ 		"s_id": 4577
+ 	},
+ 	{
+ 		"s_name": "личность #1",
+ 		"s_id": 4578
+ 	},
+ 	{
+ 		"s_name": "личность #2",
+ 		"s_id": 4579
+ 	},
+ 	{
+ 		"s_name": "горничная",
+ 		"s_id": 4580
+ 	},
+ 	{
+ 		"s_name": "личность #3",
+ 		"s_id": 4581
+ 	},
+ 	{
+ 		"s_name": "личность #4",
+ 		"s_id": 4582
+ 	},
+ 	{
+ 		"s_name": "личность #5",
+ 		"s_id": 4583
+ 	},
+ 	{
+ 		"s_name": "личность #6",
+ 		"s_id": 4584
+ 	},
+ 	{
+ 		"s_name": "Woman #1",
+ 		"s_id": 4585
+ 	},
+ 	{
+ 		"s_name": "Woman #2",
+ 		"s_id": 4586
+ 	},
+ 	{
+ 		"s_name": "Woman #3",
+ 		"s_id": 4587
+ 	},
+ 	{
+ 		"s_name": "Woman #4",
+ 		"s_id": 4588
+ 	},
+ 	{
+ 		"s_name": "Woman #5",
+ 		"s_id": 4589
+ 	},
+ 	{
+ 		"s_name": "каннибал",
+ 		"s_id": 4590
+ 	},
+ 	{
+ 		"s_name": "зомби клоун",
+ 		"s_id": 4591
+ 	},
+ 	{
+ 		"s_name": "клоун",
+ 		"s_id": 4592
+ 	},
+ 	{
+ 		"s_name": "граф дракула",
+ 		"s_id": 4593
+ 	},
+ 	{
+ 		"s_name": "из ада",
+ 		"s_id": 4594
+ 	},
+ 	{
+ 		"s_name": "самурай",
+ 		"s_id": 4595
+ 	},
+ 	{
+ 		"s_name": "гейша",
+ 		"s_id": 4597
+ 	},
+ 	{
+ 		"s_name": "крик",
+ 		"s_id": 4598
+ 	},
+ 	{
+ 		"s_name": "выжившая",
+ 		"s_id": 4599
+ 	},
+ 	{
+ 		"s_name": "выживший",
+ 		"s_id": 4600
+ 	},
+ 	{
+ 		"s_name": "личность #6",
+ 		"s_id": 4601
+ 	},
+ 	{
+ 		"s_name": "эш",
+ 		"s_id": 4603
+ 	},
+ 	{
+ 		"s_name": "гейб ньюэлл",
+ 		"s_id": 4604
+ 	},
+ 	{
+ 		"s_name": "гена букин",
+ 		"s_id": 4605
+ 	},
+ 	{
+ 		"s_name": "вито корлеоне",
+ 		"s_id": 4606
+ 	},
+ 	{
+ 		"s_name": "человек-робот",
+ 		"s_id": 4607
+ 	},
+ 	{
+ 		"s_name": "стас барецкий",
+ 		"s_id": 4608
+ 	},
+ 	{
+ 		"s_name": "дауни младший",
+ 		"s_id": 4609
+ 	},
+ 	{
+ 		"s_name": "влад а4",
+ 		"s_id": 4611
+ 	},
+ 	{
+ 		"s_name": "мелкий",
+ 		"s_id": 4612
+ 	},
+ 	{
+ 		"s_name": "мелкий 2",
+ 		"s_id": 4613
+ 	},
+ 	{
+ 		"s_name": "мелкий 3",
+ 		"s_id": 4614
+ 	},
+ 	{
+ 		"s_name": "игрок #1",
+ 		"s_id": 4615
+ 	},
+ 	{
+ 		"s_name": "игрок #2",
+ 		"s_id": 4616
+ 	},
+ 	{
+ 		"s_name": "парень со сломанной рукой",
+ 		"s_id": 4617
+ 	},
+ 	{
+ 		"s_name": "негр рэпер",
+ 		"s_id": 4618
+ 	},
+ 	{
+ 		"s_name": "игрулька #1",
+ 		"s_id": 4619
+ 	},
+ 	{
+ 		"s_name": "игрулька #2",
+ 		"s_id": 4620
+ 	},
+ 	{
+ 		"s_name": "игрулька #3",
+ 		"s_id": 4621
+ 	},
+ 	{
+ 		"s_name": "шейх",
+ 		"s_id": 4622
+ 	},
+ 	{
+ 		"s_name": "байкер #1",
+ 		"s_id": 4623
+ 	},
+ 	{
+ 		"s_name": "байкер #2",
+ 		"s_id": 4624
+ 	},
+ 	{
+ 		"s_name": "байкер #3",
+ 		"s_id": 4625
+ 	},
+ 	{
+ 		"s_name": "байкершка #1",
+ 		"s_id": 4626
+ 	},
+ 	{
+ 		"s_name": "новый модный #1",
+ 		"s_id": 4627
+ 	},
+ 	{
+ 		"s_name": "новый модный #2",
+ 		"s_id": 4628
+ 	},
+ 	{
+ 		"s_name": "новый модный #3",
+ 		"s_id": 4629
+ 	},
+ 	{
+ 		"s_name": "спасательный круг",
+ 		"s_id": 4630
+ 	},
+ 	{
+ 		"s_name": "байкер #4",
+ 		"s_id": 4631
+ 	},
+ 	{
+ 		"s_name": "байкер #5",
+ 		"s_id": 4632
+ 	},
+ 	{
+ 		"s_name": "байкер #6",
+ 		"s_id": 4633
+ 	},
+ 	{
+ 		"s_name": "байкершка #2",
+ 		"s_id": 4634
+ 	},
+ 	{
+ 		"s_name": "модник VLone",
+ 		"s_id": 4635
+ 	},
+ 	{
+ 		"s_name": "даня милохин",
+ 		"s_id": 4636
+ 	},
+ 	{
+ 		"s_name": "Lionel Messi",
+ 		"s_id": 4637
+ 	},
+ 	{
+ 		"s_name": "Mr Pin",
+ 		"s_id": 4638
+ 	},
+ 	{
+ 		"s_name": "Naruto",
+ 		"s_id": 4639
+ 	},
+ 	{
+ 		"s_name": "детектив",
+ 		"s_id": 4640
+ 	},
+ 	{
+ 		"s_name": "пляжная девчонка",
+ 		"s_id": 4641
+ 	},
+ 	{
+ 		"s_name": "валя карнавал",
+ 		"s_id": 4642
+ 	},
+ 	{
+ 		"s_name": "анимэшка",
+ 		"s_id": 4643
+ 	},
+ 	{
+ 		"s_name": "зеленский",
+ 		"s_id": 4644
+ 	},
+ 	{
+ 		"s_name": "капитан америка",
+ 		"s_id": 4645
+ 	},
+ 	{
+ 		"s_name": "цирилла",
+ 		"s_id": 4646
+ 	},
+ 	{
+ 		"s_name": "дейенерис",
+ 		"s_id": 4647
+ 	},
+ 	{
+ 		"s_name": "гендальф",
+ 		"s_id": 4648
+ 	},
+ 	{
+ 		"s_name": "геральт",
+ 		"s_id": 4649
+ 	},
+ 	{
+ 		"s_name": "железный человек",
+ 		"s_id": 4650
+ 	},
+ 	{
+ 		"s_name": "джеки чан",
+ 		"s_id": 4651
+ 	},
+ 	{
+ 		"s_name": "кеноби",
+ 		"s_id": 4652
+ 	},
+ 	{
+ 		"s_name": "джинск",
+ 		"s_id": 4653
+ 	},
+ 	{
+ 		"s_name": "кратос",
+ 		"s_id": 4654
+ 	},
+ 	{
+ 		"s_name": "лукашенко",
+ 		"s_id": 4655
+ 	},
+ 	{
+ 		"s_name": "мавроди",
+ 		"s_id": 4656
+ 	},
+ 	{
+ 		"s_name": "йода",
+ 		"s_id": 4657
+ 	},
+ 	{
+ 		"s_name": "бэтмен",
+ 		"s_id": 4658
+ 	},
+ 	{
+ 		"s_name": "дэвид",
+ 		"s_id": 4659
+ 	},
+ 	{
+ 		"s_name": "венсдей",
+ 		"s_id": 4660
+ 	},
+ 	{
+ 		"s_name": "люси",
+ 		"s_id": 4661
+ 	},
+ 	{
+ 		"s_name": "ребекка",
+ 		"s_id": 4662
+ 	},
+ 	{
+ 		"s_name": "харли квин",
+ 		"s_id": 4663
+ 	},
+ 	{
+ 		"s_name": "Al Pachino",
+ 		"s_id": 4664
+ 	},
+ 	{
+ 		"s_name": "саша белый",
+ 		"s_id": 4665
+ 	},
+ 	{
+ 		"s_name": "Getleman #1",
+ 		"s_id": 4666
+ 	},
+ 	{
+ 		"s_name": "Getleman #2",
+ 		"s_id": 4667
+ 	},
+ 	{
+ 		"s_name": "Getleman #3",
+ 		"s_id": 4668
+ 	},
+ 	{
+ 		"s_name": "Getleman #4",
+ 		"s_id": 4669
+ 	},
+ 	{
+ 		"s_name": "Getleman #5",
+ 		"s_id": 4670
+ 	},
+ 	{
+ 		"s_name": "Getleman #6",
+ 		"s_id": 4671
+ 	},
+ 	{
+ 		"s_name": "Main Bomj",
+ 		"s_id": 4672
+ 	},
+ 	{
+ 		"s_name": "Main #1",
+ 		"s_id": 4673
+ 	},
+ 	{
+ 		"s_name": "Main #2",
+ 		"s_id": 4674
+ 	},
+ 	{
+ 		"s_name": "Main #3",
+ 		"s_id": 4675
+ 	},
+ 	{
+ 		"s_name": "Main #4",
+ 		"s_id": 4676
+ 	},
+ 	{
+ 		"s_name": "Main #5",
+ 		"s_id": 4677
+ 	},
+ 	{
+ 		"s_name": "Main #6",
+ 		"s_id": 4678
+ 	},
+ 	{
+ 		"s_name": "Main #7",
+ 		"s_id": 4679
+ 	},
+ 	{
+ 		"s_name": "Main #8",
+ 		"s_id": 4680
+ 	},
+ 	{
+ 		"s_name": "Main #9",
+ 		"s_id": 4681
+ 	},
+ 	{
+ 		"s_name": "монстр",
+ 		"s_id": 4682
+ 	},
+ 	{
+ 		"s_name": "гордон",
+ 		"s_id": 4683
+ 	},
+ 	{
+ 		"s_name": "Zomb1E",
+ 		"s_id": 4684
+ 	},
+ 	{
+ 		"s_name": "тыква",
+ 		"s_id": 4685
+ 	},
+ 	{
+ 		"s_name": "граф дракуля",
+ 		"s_id": 4686
+ 	},
+ 	{
+ 		"s_name": "волан де морт",
+ 		"s_id": 4687
+ 	},
+ 	{
+ 		"s_name": "без головы",
+ 		"s_id": 4688
+ 	},
+ 	{
+ 		"s_name": "свин",
+ 		"s_id": 4689
+ 	},
+ 	{
+ 		"s_name": "K1ller",
+ 		"s_id": 4690
+ 	},
+ 	{
+ 		"s_name": "Charlie Hannem",
+ 		"s_id": 4691
+ 	},
+ 	{
+ 		"s_name": "купидон",
+ 		"s_id": 4692
+ 	},
+ 	{
+ 		"s_name": "леголас",
+ 		"s_id": 4693
+ 	},
+ 	{
+ 		"s_name": "заключённый #1",
+ 		"s_id": 4694
+ 	},
+ 	{
+ 		"s_name": "заключённый #2",
+ 		"s_id": 4695
+ 	},
+ 	{
+ 		"s_name": "заключённый #3",
+ 		"s_id": 4696
+ 	},
+ 	{
+ 		"s_name": "заключённый #4",
+ 		"s_id": 4697
+ 	},
+ 	{
+ 		"s_name": "арагорн",
+ 		"s_id": 4698
+ 	},
+ 	{
+ 		"s_name": "Bumbl Bee",
+ 		"s_id": 4699
+ 	},
+ 	{
+ 		"s_name": "Jax",
+ 		"s_id": 4700
+ 	},
+ 	{
+ 		"s_name": "Lui Kang",
+ 		"s_id": 4701
+ 	},
+ 	{
+ 		"s_name": "Noob Saimbot",
+ 		"s_id": 4702
+ 	},
+ 	{
+ 		"s_name": "Sonya Blade",
+ 		"s_id": 4703
+ 	},
+ 	{
+ 		"s_name": "Shan Zhi",
+ 		"s_id": 4704
+ 	},
+ 	{
+ 		"s_name": "Raiden",
+ 		"s_id": 4705
+ 	},
+ 	{
+ 		"s_name": "Scorpion",
+ 		"s_id": 4706
+ 	},
+ 	{
+ 		"s_name": "Sub Zero",
+ 		"s_id": 4707
+ 	},
+ 	{
+ 		"s_name": "леший",
+ 		"s_id": 4708
+ 	},
+ 	{
+ 		"s_name": "Optimus Prime",
+ 		"s_id": 4709
+ 	},
+ 	{
+ 		"s_name": "Scoobie Doo",
+ 		"s_id": 4710
+ 	},
+ 	{
+ 		"s_name": "Shaggie",
+ 		"s_id": 4711
+ 	},
+ 	{
+ 		"s_name": "джон сноу",
+ 		"s_id": 4712
+ 	},
+ 	{
+ 		"s_name": "трис",
+ 		"s_id": 4713
+ 	},
+ 	{
+ 		"s_name": "Dart Vader",
+ 		"s_id": 4714
+ 	},
+ 	{
+ 		"s_name": "Velma",
+ 		"s_id": 4715
+ 	},
+ 	{
+ 		"s_name": "йен",
+ 		"s_id": 4716
+ 	},
+ 	{
+ 		"s_name": "паша техник",
+ 		"s_id": 4717
+ 	},
+ 	{
+ 		"s_name": "PUBG #1 (женск.)",
+ 		"s_id": 4718
+ 	},
+ 	{
+ 		"s_name": "PUBG #1",
+ 		"s_id": 4719
+ 	},
+ 	{
+ 		"s_name": "PUBG #2 (женск.)",
+ 		"s_id": 4720
+ 	},
+ 	{
+ 		"s_name": "PUBG #2",
+ 		"s_id": 4721
+ 	},
+ 	{
+ 		"s_name": "PUBG #3 (женск.)",
+ 		"s_id": 4722
+ 	},
+ 	{
+ 		"s_name": "PUBG #3",
+ 		"s_id": 4723
+ 	},
+ 	{
+ 		"s_name": "PUBG #4 (женск.)",
+ 		"s_id": 4724
+ 	},
+ 	{
+ 		"s_name": "PUBG #4",
+ 		"s_id": 4725
+ 	},
+ 	{
+ 		"s_name": "PUBG #5 (женск.)",
+ 		"s_id": 4726
+ 	},
+ 	{
+ 		"s_name": "PUBG #5",
+ 		"s_id": 4727
+ 	},
+ 	{
+ 		"s_name": "диана шурыгина",
+ 		"s_id": 4728
+ 	},
+ 	{
+ 		"s_name": "Spider Man",
+ 		"s_id": 4729
+ 	},
+ 	{
+ 		"s_name": "левая",
+ 		"s_id": 4730
+ 	},
+ 	{
+ 		"s_name": "правая",
+ 		"s_id": 4731
+ 	},
+ 	{
+ 		"s_name": "Venom",
+ 		"s_id": 4732
+ 	},
+ 	{
+ 		"s_name": "бэт",
+ 		"s_id": 4733
+ 	},
+ 	{
+ 		"s_name": "морти",
+ 		"s_id": 4734
+ 	},
+ 	{
+ 		"s_name": "осёл",
+ 		"s_id": 4735
+ 	},
+ 	{
+ 		"s_name": "рик",
+ 		"s_id": 4736
+ 	},
+ 	{
+ 		"s_name": "фиона #1",
+ 		"s_id": 4737
+ 	},
+ 	{
+ 		"s_name": "фиона #2",
+ 		"s_id": 4738
+ 	},
+ 	{
+ 		"s_name": "шрек #1",
+ 		"s_id": 4739
+ 	},
+ 	{
+ 		"s_name": "шрек #2",
+ 		"s_id": 4740
+ 	},
+ 	{
+ 		"s_name": "вова адидас",
+ 		"s_id": 4741
+ 	},
+ 	{
+ 		"s_name": "лорд фаркуад",
+ 		"s_id": 4742
+ 	},
+ 	{
+ 		"s_name": "маратик",
+ 		"s_id": 4743
+ 	},
+ 	{
+ 		"s_name": "пальто",
+ 		"s_id": 4744
+ 	},
+ 	{
+ 		"s_name": "птичья личность",
+ 		"s_id": 4745
+ 	},
+ 	{
+ 		"s_name": "саммер",
+ 		"s_id": 4746
+ 	}
+]

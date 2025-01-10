@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Winston_Smith",
+		"check": false
+	},
+	{
+		"name": "Varfolomeev",
+		"check": false
+	},
+	{
+		"name": "Mau_Miller",
+		"check": true
+	}
+]

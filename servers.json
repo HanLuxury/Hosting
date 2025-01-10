@@ -1,0 +1,38 @@
+[
+	{
+		"ip": "79.137.97.42",
+		"port": 7777, 
+		"action": "x4 донат",
+		"action2": "",
+		"action3": "",
+		"action4": "",
+		"color": "#ffFFB800",
+		"name": "Авторитетный (01)",
+		"new_server": false,
+		"test_server": false
+	},
+	{
+		"ip": "79.137.97.41",
+		"port": 7777,
+		"action": "x4 донат",
+		"action2": "",
+		"action3": "",
+		"action4": "",
+		"color": "#ffAA3333",
+		"name": "Бандитский (02)",
+		"new_server": false,
+		"test_server": false
+	},
+	{
+		"ip": "51.91.91.65",
+		"port": 7777,
+		"action": "тестовый",
+		"action2": "доступ по приглашению",
+		"action3": "",
+		"action4": "",
+		"color": "#ffffffff",
+		"name": "Тестовый",
+		"new_server": false,
+		"test_server": false
+	}
+]

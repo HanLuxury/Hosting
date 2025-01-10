@@ -1,0 +1,22 @@
+{
+    "SIZE_WATER": 12527,
+    "SIZE_WATER1": 60063,
+    "SIZE_GTAINT_IMG": 341118976,
+    "SIZE_GTAINT": 679965,
+    "SIZE_GTA3_IMG": 395290624,
+    "SIZE_GTA3": 419668,
+    "SIZE_CARS_IMG": 397123584,
+    "SIZE_CARS": 87733,
+    "SIZE_SKINS_IMG": 185499648,
+    "SIZE_SKINS": 113432,
+    "PED_IFP": 1433248,
+    "SIZE_WEAPON": 11602,
+    "SIZE_MELEE": 6306,
+    "SIZE_HANDLING": 63983,
+    "SIZE_PEDS": 67661,
+    "SIZE_SETTINGS": 2196,
+    "SIZE_AUDIOSETTINGS": 38965,
+    "SIZE_VEHICLES": 37242,
+	"CheckingFiles": true,
+	"URL_DOWNLOAD_APK": "http://slaughters.geryon.feralhosting.com/app-crime-release.apk"
+}

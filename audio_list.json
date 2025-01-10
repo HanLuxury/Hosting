@@ -1,0 +1,385 @@
+{
+	"audio":
+	[
+		{
+			"internalID": 0,
+			"name": "Big-Baby-Tape 99 PROBLEMS", 
+			"url":"http://cdn.crime-mobile.net/music/1.mp3"
+		},
+		{
+			"internalID": 1,
+			"name": "Big-Baby-Tape Bandana", 
+			"url":"http://cdn.crime-mobile.net/music/2.mp3"
+		},
+		{
+			"internalID": 2,
+			"name": "Boulevard Depo В.О.Л.К.", 
+			"url":"http://cdn.crime-mobile.net/music/3.mp3"
+		},
+		{
+			"internalID": 3,
+			"name": "Dead Blonde - Мальчик на девятке", 
+			"url":"http://cdn.crime-mobile.net/music/4.mp3"
+		},
+		{
+			"internalID": 4,
+			"name": "Джарахов - Я в моменте", 
+			"url":"http://cdn.crime-mobile.net/music/5.mp3"
+		},
+		{
+			"internalID": 5,
+			"name": "Джиган - Ролс Ройс", 
+			"url":"http://cdn.crime-mobile.net/music/6.mp3"
+		},
+		{
+			"internalID": 6,
+			"name": "Энраста - Джованна", 
+			"url":"http://cdn.crime-mobile.net/music/7.mp3"
+		},
+		{
+			"internalID": 7,
+			"name": "FACE - Расстояние", 
+			"url":"http://cdn.crime-mobile.net/music/8.mp3"
+		},
+		{
+			"internalID": 8,
+			"name": "Hamalli Navai - Птичка", 
+			"url":"http://cdn.crime-mobile.net/music/9.mp3"
+		},
+		{
+			"internalID": 9,
+			"name": "INSTASAMKA - Липси Ха", 
+			"url":"http://cdn.crime-mobile.net/music/10.mp3"
+		},
+		{
+			"internalID": 10,
+			"name": "JojoHF - Губы", 
+			"url":"http://cdn.crime-mobile.net/music/11.mp3"
+		},
+		{
+			"internalID": 11,
+			"name": "Karna.Val - Ой мама", 
+			"url":"http://cdn.crime-mobile.net/music/12.mp3"
+		},
+		{
+			"internalID": 12,
+			"name": "Костромин - Моя голова винтом", 
+			"url":"http://cdn.crime-mobile.net/music/13.mp3"
+		},
+		{
+			"internalID": 13,
+			"name": "Люся Чеботина - Солнце Монако", 
+			"url":"http://cdn.crime-mobile.net/music/14.mp3"
+		},
+		{
+			"internalID": 14,
+			"name": "Мишель - А уже всё", 
+			"url":"http://cdn.crime-mobile.net/music/15.mp3"
+		},
+		{
+			"internalID": 15,
+			"name": "Morgenshtern - HUBLOT", 
+			"url":"http://cdn.crime-mobile.net/music/16.mp3"
+		},
+		{
+			"internalID": 16,
+			"name": "Morgenshtern - OLALA", 
+			"url":"http://cdn.crime-mobile.net/music/17.mp3"
+		},
+		{
+			"internalID": 17,
+			"name": "Morgenshtern - ARISTOCRAT", 
+			"url":"http://cdn.crime-mobile.net/music/18.mp3"
+		},
+		{
+			"internalID": 18,
+			"name": "Morgenshtern - Кристал Моёт", 
+			"url":"http://cdn.crime-mobile.net/music/19.mp3"
+		},
+		{
+			"internalID": 19,
+			"name": "Morgenshtern - ДУЛО", 
+			"url":"http://cdn.crime-mobile.net/music/20.mp3"
+		},
+		{
+			"internalID": 20,
+			"name": "Morgenshtern - Кадиллак", 
+			"url":"http://cdn.crime-mobile.net/music/21.mp3"
+		},
+		{
+			"internalID": 21,
+			"name": "Morgenshtern - ICE", 
+			"url":"http://cdn.crime-mobile.net/music/22.mp3"
+		},
+		{
+			"internalID": 22,
+			"name": "Morgenshtern - SHOW", 
+			"url":"http://cdn.crime-mobile.net/music/23.mp3"
+		},
+		{
+			"internalID": 23,
+			"name": "Morgenshtern - El Problema", 
+			"url":"http://cdn.crime-mobile.net/music/24.mp3"
+		},
+		{
+			"internalID": 24,
+			"name": "Oxxxymiron - Организация", 
+			"url":"http://cdn.crime-mobile.net/music/25.mp3"
+		},
+		{
+			"internalID": 25,
+			"name": "PHARAOH - По пути", 
+			"url":"http://cdn.crime-mobile.net/music/26.mp3"
+		},
+		{
+			"internalID": 26,
+			"name": "Rakhim - Синий ламборгини", 
+			"url":"http://cdn.crime-mobile.net/music/27.mp3"
+		},
+		{
+			"internalID": 27,
+			"name": "SLAVA MARLOW - Кому это надо?", 
+			"url":"http://cdn.crime-mobile.net/music/28.mp3"
+		},
+		{
+			"internalID": 28,
+			"name": "SLAVA MARLOW - Агония", 
+			"url":"http://cdn.crime-mobile.net/music/29.mp3"
+		},
+		{
+			"internalID": 29,
+			"name": "Slava Marlow - Быстро", 
+			"url":"http://cdn.crime-mobile.net/music/30.mp3"
+		},
+		{
+			"internalID": 30,
+			"name": "Slava Marlow - Снова я напиваюсь", 
+			"url":"http://cdn.crime-mobile.net/music/31.mp3"
+		},
+		{
+			"internalID": 31,
+			"name": "Slava Marlow - Бигасс", 
+			"url":"http://cdn.crime-mobile.net/music/32.mp3"
+		},
+		{
+			"internalID": 32,
+			"name": "Sqwoz Bab - АУФ", 
+			"url":"http://cdn.crime-mobile.net/music/33.mp3"
+		},
+		{
+			"internalID": 33,
+			"name": "Thrill Pill - Миллионы", 
+			"url":"http://cdn.crime-mobile.net/music/34.mp3"
+		},
+		{
+			"internalID": 34,
+			"name": "Ваня Дмитриенко - Венера-Юпитер", 
+			"url":"http://cdn.crime-mobile.net/music/35.mp3"
+		},
+		{
+			"internalID": 35,
+			"name": "Егор Крид - LAMBO URUS", 
+			"url":"http://cdn.crime-mobile.net/music/36.mp3"
+		},
+		{
+			"internalID": 36,
+			"name": "Егор Крид - PUSSY BOY", 
+			"url":"http://cdn.crime-mobile.net/music/37.mp3"
+		},
+		{
+			"internalID": 37,
+			"name": "Егор Крид - ЗДРАВСТВУЙТЕ", 
+			"url":"http://cdn.crime-mobile.net/music/38.mp3"
+		},
+		{
+			"internalID": 38,
+			"name": "Егор Шип - DIOR", 
+			"url":"http://cdn.crime-mobile.net/music/39.mp3"
+		},
+		{
+			"internalID": 39,
+			"name": "Клава Кока - Краш", 
+			"url":"http://cdn.crime-mobile.net/music/40.mp3"
+		},
+		{
+			"internalID": 40,
+			"name": "Мумий Троль - Башня", 
+			"url":"http://cdn.crime-mobile.net/music/41.mp3"
+		},
+		{
+			"internalID": 41,
+			"name": "Платина Дора - Сан Ларан", 
+			"url":"http://cdn.crime-mobile.net/music/42.mp3"
+		},
+		{
+			"internalID": 42,
+			"name": "Скриптонит - Baby Mama", 
+			"url":"http://cdn.crime-mobile.net/music/43.mp3"
+		},
+		{
+			"internalID": 43,
+			"name": "Элджей - Candy Flip", 
+			"url":"http://cdn.crime-mobile.net/music/44.mp3"
+		},
+		{
+			"internalID": 44,
+			"name": "Юность - Dabro", 
+			"url":"http://cdn.crime-mobile.net/music/45.mp3"
+		},
+		{
+			"internalID": 45,
+			"name": "Get Low - Dillon Francis ft DJ Snake", 
+			"url":"http://cdn.crime-mobile.net/music/46.mp3"
+		},
+		{
+			"internalID": 46,
+			"name": "Мальчик на девятке - DEAD BLOND", 
+			"url":"http://cdn.crime-mobile.net/music/47.mp3"
+		},
+		{
+			"internalID": 47,
+			"name": "Oblivion [NCS Release] - Dirty Palm (feat. Micah Martin)", 
+			"url":"http://cdn.crime-mobile.net/music/48.mp3"
+		},
+		{
+			"internalID": 48,
+			"name": "It’s No Good - Depeche Mode", 
+			"url":"http://cdn.crime-mobile.net/music/49.mp3"
+		},
+		{
+			"internalID": 49,
+			"name": "Мне пох - Клава Кока & MORGENSHTERN", 
+			"url":"http://cdn.crime-mobile.net/music/50.mp3"
+		},
+		{
+			"internalID": 50,
+			"name": "Глупый Молодой На Мели - Kravts", 
+			"url":"http://cdn.crime-mobile.net/music/51.mp3"
+		},
+		{
+			"internalID": 51,
+			"name": "Кукушка (Otnicka Remix) - Кино", 
+			"url":"http://cdn.crime-mobile.net/music/52.mp3"
+		},
+		{
+			"internalID": 52,
+			"name": "Вокруг шум - Каста", 
+			"url":"http://cdn.crime-mobile.net/music/53.mp3"
+		},
+		{
+			"internalID": 53,
+			"name": "Вали - Канги", 
+			"url":"http://cdn.crime-mobile.net/music/54.mp3"
+		},
+		{
+			"internalID": 54,
+			"name": "Ебаный в рот этого казино - Казино", 
+			"url":"http://cdn.crime-mobile.net/music/55.mp3"
+		},
+		{
+			"internalID": 55,
+			"name": "Малинки-малинки - Дискотека Авария feat. Жанна Фриске", 
+			"url":"http://cdn.crime-mobile.net/music/56.mp3"
+		},
+		{
+			"internalID": 56,
+			"name": "ГРУСТНО - ЕГОР КРИД feat. SODA LUV", 
+			"url":"http://cdn.crime-mobile.net/music/57.mp3"
+		},
+		{
+			"internalID": 57,
+			"name": "Сердцеедка - Егор Крид", 
+			"url":"http://cdn.crime-mobile.net/music/58.mp3"
+		},
+		{
+			"internalID": 58,
+			"name": "Не Исправлюсь - Дора & Мэйби Бэйби", 
+			"url":"http://cdn.crime-mobile.net/music/59.mp3"
+		},
+		{
+			"internalID": 59,
+			"name": "Дорадура - дора", 
+			"url":"http://cdn.crime-mobile.net/music/60.mp3"
+		},
+		{
+			"internalID": 60,
+			"name": "Втюрилась - Дора", 
+			"url":"http://cdn.crime-mobile.net/music/61.mp3"
+		},
+		{
+			"internalID": 61,
+			"name": "Catch You - C-Bool", 
+			"url":"http://cdn.crime-mobile.net/music/62.mp3"
+		},
+		{
+			"internalID": 62,
+			"name": "C U Again (Cartoon vs Futuristik VIP) [NCS Release] - Cartoon feat. Mikk Me", 
+			"url":"http://cdn.crime-mobile.net/music/63.mp3"
+		},
+		{
+			"internalID": 63,
+			"name": "Кока - CAPTOWN", 
+			"url":"http://cdn.crime-mobile.net/music/64.mp3"
+		},
+		{
+			"internalID": 64,
+			"name": "California (DJ DimixeR and DJ Viduta feat. Mike Prado remix) -  Cali Fornia", 
+			"url":"http://cdn.crime-mobile.net/music/65.mp3"
+		},
+		{
+			"internalID": 65,
+			"name": "Maria - Blondie", 
+			"url":"http://cdn.crime-mobile.net/music/66.mp3"
+		},
+		{
+			"internalID": 66,
+			"name": "I Know What You Want - Busta Rhymes, Mariah Carey feat. Flipmode Squad", 
+			"url":"http://cdn.crime-mobile.net/music/67.mp3"
+		},
+		{
+			"internalID": 67,
+			"name": "Jerk It Out - Caesars", 
+			"url":"http://cdn.crime-mobile.net/music/68.mp3"
+		},
+		{
+			"internalID": 68,
+			"name": "WHITE GALLOWS - Сердце", 
+			"url":"http://cdn.crime-mobile.net/music/69.mp3"
+		},
+		{
+			"internalID": 69,
+			"name": "Key Glock - Ambition For Cash", 
+			"url":"http://cdn.crime-mobile.net/music/70.mp3"
+		},
+		{
+			"internalID": 70,
+			"name": "WHITE GALLOWS - Город", 
+			"url":"http://cdn.crime-mobile.net/music/71.mp3"
+		},
+		{
+			"internalID": 71,
+			"name": "Я ненавижу людей - Грязь", 
+			"url":"http://cdn.crime-mobile.net/music/72.mp3"
+		},
+		{
+			"internalID": 72,
+			"name": "Big Baby Tape, Aarne - HOODAK MP3", 
+			"url":"http://cdn.crime-mobile.net/music/73.mp3"
+		},
+		{
+			"internalID": 73,
+			"name": "lil 17th - mary jane", 
+			"url":"http://cdn.crime-mobile.net/music/74.mp3"
+		},
+		{
+			"internalID": 74,
+			"name": "MACAN - Asphalt 8", 
+			"url":"http://cdn.crime-mobile.net/music/75.mp3"
+		},
+		{
+			"internalID": 75,
+			"name": "Akid - Pharaoh x Mnogoznaal", 
+			"url":"http://cdn.crime-mobile.net/music/76.mp3"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+[
+	{
+		"iID": 0,
+		"iName": "Тюнинг",
+		"iCount": 12,
+		"iType": 0
+	},
+	{
+		"iID": 1,
+		"iName": "Детейлинг",
+		"iCount": 13,
+		"iType": 0
+	},
+	{
+		"iID": 2,
+		"iName": "Stage",
+		"iCount": 0,
+		"iType": 0
+	},
+	{
+		"iID": 3,
+		"iName": "ТО двигателя",
+		"iCount": 0,
+		"iType": 0
+	},
+	{
+		"iID": 4,
+		"iName": "Удаление тюнинга",
+		"iCount": 0,
+		"iType": 0
+	},
+	{
+		"iID": 5,
+		"iName": "Perfomance",
+		"iCount": 3,
+		"iType": 1
+	},
+	{
+		"iID": 1,
+		"iName": "Детейлинг",
+		"iCount": 13,
+		"iType": 1
+	},
+	{
+		"iID": 2,
+		"iName": "Stage",
+		"iCount": 0,
+		"iType": 1
+	},
+	{
+		"iID": 3,
+		"iName": "ТО двигателя",
+		"iCount": 0,
+		"iType": 1
+	},
+	{
+		"iID": 4,
+		"iName": "Удаление тюнинга",
+		"iCount": 0,
+		"iType": 1
+	}
+]

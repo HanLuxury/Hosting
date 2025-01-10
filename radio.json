@@ -1,0 +1,27 @@
+[
+	{
+		"internalID": 0,
+		"name": "Europa Plus", 
+		"url": "http://eptop128.streamr.ru"
+	},
+	{
+		"internalID": 1,
+		"name": "Русское радио", 
+		"url": "http://rusradio.hostingradio.ru/rusradio128.mp3"
+	},
+	{
+		"internalID": 2,
+		"name": "Радио Шансон", 
+		"url": "http://chanson.hostingradio.ru:8041/chanson128.mp3"
+	},
+	{
+		"internalID": 3,
+		"name": "Радио Рекорд", 
+		"url": "http://str.pcradio.ru/radiorecord_ru-hi"
+	},
+	{
+		"internalID": 4,
+		"name": "Хайп ФМ", 
+		"url": "http://hfm.amgradio.ru/HypeFM"
+	}
+]
