@@ -17,6 +17,6 @@
     "SIZE_SETTINGS": 2196,
     "SIZE_AUDIOSETTINGS": 38965,
     "SIZE_VEHICLES": 37242,
-	"CheckingFiles": true,
+	"CheckingFiles": false,
 	"URL_DOWNLOAD_APK": "http://slaughters.geryon.feralhosting.com/app-crime-release.apk"
 }
