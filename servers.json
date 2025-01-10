@@ -1,37 +1,37 @@
 [
 	{
-		"ip": "79.137.97.42",
+		"ip": "144.217.19.105",
 		"port": 7777, 
-		"action": "x4 донат",
+		"action": "x4 Payday",
 		"action2": "",
 		"action3": "",
 		"action4": "",
 		"color": "#ffFFB800",
-		"name": "Авторитетный (01)",
+		"name": "Nusantara (01)",
 		"new_server": false,
 		"test_server": false
 	},
 	{
-		"ip": "79.137.97.41",
-		"port": 7777,
-		"action": "x4 донат",
+		"ip": "play.uifserver.net",
+		"port": 7776,
+		"action": "x4 Payday",
 		"action2": "",
 		"action3": "",
 		"action4": "",
 		"color": "#ffAA3333",
-		"name": "Бандитский (02)",
+		"name": "Nusantara (02)",
 		"new_server": false,
 		"test_server": false
 	},
 	{
 		"ip": "51.91.91.65",
 		"port": 7777,
-		"action": "тестовый",
-		"action2": "доступ по приглашению",
+		"action": "Beta Tester",
+		"action2": "akses melalui undangan",
 		"action3": "",
 		"action4": "",
 		"color": "#ffffffff",
-		"name": "Тестовый",
+		"name": "Test",
 		"new_server": false,
 		"test_server": false
 	}
