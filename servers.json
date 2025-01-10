@@ -24,7 +24,7 @@
 		"test_server": false
 	},
 	{
-		"ip": "51.91.91.65",
+		"ip": "192.168.1.13",
 		"port": 7777,
 		"action": "Beta Tester",
 		"action2": "akses melalui undangan",
