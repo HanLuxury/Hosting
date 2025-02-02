@@ -12,14 +12,14 @@
 		"test_server": false
 	},
 	{
-		"ip": "play.uifserver.net",
-		"port": 7776,
+		"ip": "23.88.73.88",
+		"port": 13753,
 		"action": "x4 Payday",
-		"action2": "",
-		"action3": "",
-		"action4": "",
+		"action2": "eren",
+		"action3": "cuy",
+		"action4": "gans",
 		"color": "#ffAA3333",
-		"name": "Nusantara (02)",
+		"name": "Beta Test (02)",
 		"new_server": false,
 		"test_server": false
 	},
