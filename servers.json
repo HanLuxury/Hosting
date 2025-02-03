@@ -14,10 +14,10 @@
 	{
 		"ip": "23.88.73.88",
 		"port": 25271,
-		"action": "x4 Payday",
-		"action2": "eren",
-		"action3": "cuy",
-		"action4": "gans",
+		"action": "tester",
+		"action2": "akses melalui undangan",
+		"action3": "update",
+		"action4": "new fitur",
 		"color": "#ffAA3333",
 		"name": "Beta Test (02)",
 		"new_server": false,
@@ -26,12 +26,12 @@
 	{
 		"ip": "192.168.1.11",
 		"port": 7777,
-		"action": "Beta Tester",
+		"action": "tester",
 		"action2": "akses melalui undangan",
-		"action3": "",
-		"action4": "",
+		"action3": "update",
+		"action4": "new fitur",
 		"color": "#ffffffff",
-		"name": "Test",
+		"name": "Beta Test (03)",
 		"new_server": false,
 		"test_server": false
 	}
