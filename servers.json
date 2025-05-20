@@ -12,8 +12,8 @@
 		"test_server": false
 	},
 	{
-		"ip": "23.88.73.88",
-		"port": 33824,
+		"ip": "192.168.1.8",
+		"port": 7777,
 		"action": "tester",
 		"action2": "akses melalui undangan",
 		"action3": "update",
