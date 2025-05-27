@@ -12,7 +12,7 @@
 		"test_server": false
 	},
 	{
-		"ip": "192.168.1.8",
+		"ip": "192.168.1.7",
 		"port": 7777,
 		"action": "tester",
 		"action2": "akses melalui undangan",
